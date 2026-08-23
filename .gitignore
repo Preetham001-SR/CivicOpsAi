@@ -1,0 +1,51 @@
+# Environment variables / secrets
+.env
+*.env
+!.env.example
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+# Testing & Coverage
+.pytest_cache/
+.coverage
+htmlcov/
+.tox/
+.nox/
+coverage.xml
+*.cover
+
+# IDEs & OS
+.DS_Store
+.AppleDouble
+.LSOverride
+._*
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# Logs and databases
+*.log
+*.sqlite3
+*.db
+
+# Build & Dist
+build/
+dist/
+*.egg-info/
+.eggs/
+
+# Celery
+celerybeat-schedule
+celerybeat.pid
+
