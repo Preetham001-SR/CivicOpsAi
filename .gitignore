@@ -45,7 +45,12 @@ dist/
 *.egg-info/
 .eggs/
 
-# Celery
-celerybeat-schedule
-celerybeat.pid
+# Node & Next.js
+node_modules/
+.next/
+out/
+.turbo/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
 

@@ -1,0 +1,230 @@
+# Past Incident Reports - Potholes
+
+## INC-2024-001234 - Large Pothole on Main St at Oak Ave
+**Date Reported**: 2024-03-15
+**Location**: Main St & Oak Ave (37.7749, -122.4194)
+**Category**: Pothole
+**Priority Assigned**: HIGH (Class B)
+**Department**: Public Works - Street Maintenance
+**Status**: COMPLETED
+
+**Description**: Citizen reported large pothole approx 45cm diameter, 7cm depth at intersection of Main St and Oak Ave. Causing vehicle damage and near-miss incidents.
+
+**Vision Analysis**: Confirmed 45cm x 38cm pothole with 7cm depth. Asphalt edges crumbling. Located in travel lane.
+
+**Investigation**: 
+- Inspection completed 2024-03-15 (same day)
+- Classified as Class B per 12.04.010.1 (diameter 30-60cm, depth 5-10cm, arterial road)
+- ADT at location: 24,500 vehicles/day
+
+**Resolution**:
+- Temporary cold patch applied 2024-03-15 (within 24hr)
+- Permanent hot mix repair scheduled 2024-03-20
+- Permanent repair completed 2024-03-22 (within 14 days)
+- Saw-cut edges, 75mm hot mix, proper compaction
+- Before/after photos archived
+
+**Cost**: $2,850 (temp patch: $350, permanent: $2,500)
+**Duration**: 7 days from report to permanent repair
+**Outcome**: No further complaints at location in 90-day follow-up
+
+**Citations**: 12.04.010.1 Class B, 12.04.010.2 Repair Methods
+
+---
+## INC-2024-001567 - Pothole on Elm St near School Zone
+**Date Reported**: 2024-04-22
+**Location**: Elm St at 5th Ave (37.7749, -122.4194)
+**Category**: Pothole
+**Priority Assigned**: CRITICAL (Class A)
+**Department**: Public Works - Street Maintenance
+**Status**: COMPLETED
+
+**Description**: Parent reported deep pothole near elementary school crosswalk. Multiple tire damage incidents reported.
+
+**Vision Analysis**: 75cm diameter, 12cm depth. Located 15m from marked school crosswalk.
+
+**Investigation**:
+- Inspection completed 2024-04-22 (within 4 hours - school zone protocol)
+- Classified as Class A per 12.04.010.1 (diameter > 60cm, depth > 10cm, school zone)
+- Immediate safety hazard identified
+
+**Resolution**:
+- Emergency cold patch applied 2024-04-22 (within 4 hours)
+- Full-depth reconstruction scheduled due to base failure
+- Permanent repair completed 2024-04-26 (within 4 days)
+- Base stabilized with geotextile fabric
+- School zone flashing beacons installed as additional safety measure
+
+**Cost**: $8,200 (emergency: $1,200, reconstruction: $7,000)
+**Duration**: 4 days from report to permanent repair
+**Outcome**: No incidents since repair. Crosswalk safety improved.
+
+**Citations**: 12.04.010.1 Class A, 12.04.010.2 Base Repair
+
+---
+## INC-2024-002101 - Pothole on Residential Side Street
+**Date Reported**: 2024-05-10
+**Location**: Maple Dr between 1st and 2nd (37.7749, -122.4194)
+**Category**: Pothole
+**Priority Assigned**: STANDARD (Class C)
+**Department**: Public Works - Street Maintenance
+**Status**: COMPLETED
+
+**Description**: Resident reported small pothole forming near driveway entrance.
+
+**Vision Analysis**: 20cm diameter, 3cm depth. Minor edge cracking.
+
+**Investigation**:
+- Inspection completed 2024-05-14 (within 48 hours)
+- Classified as Class C per 12.04.010.1 (diameter < 30cm, depth < 5cm, local street)
+- ADT: ~800 vehicles/day
+
+**Resolution**:
+- Scheduled with routine maintenance cycle
+- Permanent repair completed 2024-05-24 (within 14 days)
+- Standard hot mix patch, 50mm thickness
+- No base repair needed
+
+**Cost**: $1,100
+**Duration**: 14 days from report to repair
+**Outcome**: Resident satisfied, no recurrence
+
+**Citations**: 12.04.010.1 Class C, 12.04.010.3 Inspection Requirements
+
+---
+## INC-2024-001890 - Streetlight Outage at Dangerous Intersection
+**Date Reported**: 2024-04-01
+**Location**: 3rd St & Market St (37.7749, -122.4194)
+**Category**: Streetlight Outage
+**Priority Assigned**: CRITICAL
+**Department**: Public Works - Street Lighting
+**Status**: COMPLETED
+
+**Description**: Multiple reports of complete darkness at major downtown intersection. Near-miss pedestrian incidents reported.
+
+**Investigation**:
+- Confirmed 3 of 4 intersection lights out
+- Classified Critical per 12.04.020.1 (intersection)
+- Smart controller fault detected
+
+**Resolution**:
+- Emergency crew dispatched 2024-04-01 (within 2 hours)
+- Controller replaced, all fixtures relamped with LED
+- Full restoration 2024-04-01 22:00 (within 4 hours)
+- Smart controller upgraded to latest firmware
+
+**Cost**: $3,400
+**Duration**: 6 hours from report to restoration
+**Outcome**: Zero nighttime incidents since repair
+
+**Citations**: 12.04.020.1 Critical Response, 12.04.020.2 LED Conversion
+
+---
+## INC-2024-002341 - Sidewalk Trip Hazard Near Senior Center
+**Date Reported**: 2024-05-15
+**Location**: Oak St at Senior Center entrance (37.7749, -122.4194)
+**Category**: Sidewalk Damage
+**Priority Assigned**: HIGH
+**Department**: Public Works - Sidewalk Maintenance
+**Status**: COMPLETED
+
+**Description**: Senior center director reported 25mm vertical displacement at main entrance creating trip hazard.
+
+**Investigation**:
+- Measured 28mm displacement at entrance walkway
+- High priority per 12.04.030.1 (near senior center)
+- Tree root intrusion identified as cause
+
+**Resolution**:
+- Panel replacement completed 2024-05-20 (within 5 days)
+- Root barrier installed to prevent recurrence
+- ADA-compliant ramp slope verified
+
+**Cost**: $4,500
+**Duration**: 5 days
+**Outcome**: Senior center director confirmed safe access restored
+
+**Citations**: 12.04.030.1 Trip Hazard Criteria, 12.04.030.2 Repair Methods
+
+---
+## INC-2024-001112 - Drainage Issue - Flooding at Underpass
+**Date Reported**: 2024-02-28
+**Location**: Highway 101 underpass at Mission St (37.7749, -122.4194)
+**Category**: Drainage Issue
+**Priority Assigned**: CRITICAL
+**Department**: Public Works - Stormwater Management
+**Status**: COMPLETED
+
+**Description**: Heavy rainfall caused 60cm standing water at underpass. Vehicles stalling, traffic backup 2 miles.
+
+**Investigation**:
+- Catch basin 85% blocked with debris
+- Pump station float switch failed
+- Emergency per 12.04.040.1
+
+**Resolution**:
+- Vacuum truck cleared catch basin 2024-02-28 (within 2 hours)
+- Pump station repaired 2024-02-29
+- Water receded within 4 hours of basin clearing
+- Preventive cleaning scheduled quarterly
+
+**Cost**: $5,200 (emergency: $2,200, pump repair: $3,000)
+**Duration**: 4 hours to clear flooding, 24 hours for full repair
+**Outcome**: No flooding during subsequent storms
+
+**Citations**: 12.04.040.1 Catch Basin Maintenance, 12.04.040.2 Emergency Response
+
+---
+## INC-2024-001776 - Damaged Stop Sign at School Intersection
+**Date Reported**: 2024-03-20
+**Location**: Pine St & School Ave (37.7749, -122.4194)
+**Category**: Broken Sign
+**Priority Assigned**: IMMEDIATE
+**Department**: Transportation - Signs & Markings
+**Status**: COMPLETED
+
+**Description**: Stop sign knocked down by vehicle. Intersection uncontrolled during school hours.
+
+**Investigation**:
+- Sign post sheared at base
+- Immediate priority per 12.04.050.2 (Stop sign at school zone)
+- Temporary stop sign placed by crossing guard
+
+**Resolution**:
+- New post and sign installed 2024-03-20 (within 6 hours)
+- Breakaway post installed per MUTCD
+- Retroreflective sheeting (Type XI) used
+
+**Cost**: $850
+**Duration**: 6 hours
+**Outcome**: Intersection controlled, no incidents during repair
+
+**Citations**: 12.04.050.1 Sign Replacement Criteria, 12.04.050.2 Immediate Priority
+
+---
+## INC-2024-002555 - Graffiti on Historic Bridge
+**Date Reported**: 2024-06-01
+**Location**: 4th St Bridge over Channel (37.7749, -122.4194)
+**Category**: Graffiti
+**Priority Assigned**: STANDARD
+**Department**: Public Works - Graffiti Removal
+**Status**: COMPLETED
+
+**Description**: Extensive tagging on bridge railings and abutments. Historic structure requires sensitive cleaning.
+
+**Investigation**:
+- ~50 sq ft of spray paint on concrete railings
+- Historic preservation review required
+- Non-abrasive chemical removal specified
+
+**Resolution**:
+- Approved chemical poultice method
+- Removal completed 2024-06-10 (within 10 days)
+- Anti-graffiti coating applied
+- Before/after documentation for historic records
+
+**Cost**: $6,800
+**Duration**: 10 days
+**Outcome**: Bridge restored, coating prevents re-tagging
+
+**Citations**: Municipal Code 12.04.080 Graffiti Abatement

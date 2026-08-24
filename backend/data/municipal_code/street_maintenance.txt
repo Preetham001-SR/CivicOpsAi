@@ -1,0 +1,109 @@
+# Municipal Code: Street Maintenance Standards
+## Section 12.04.010 - Pothole Repair Standards
+
+### 12.04.010.1 Definition and Classification
+A pothole is defined as a bowl-shaped depression in the roadway surface where pavement material has been lost, creating a hazard to vehicular traffic. Potholes are classified by severity:
+
+**Class A - Critical**: Diameter > 60cm OR depth > 10cm OR located on arterial road with > 20,000 ADT
+- Response time: 24 hours
+- Requires immediate temporary patch
+- Permanent repair within 7 days
+
+**Class B - High**: Diameter 30-60cm AND depth 5-10cm OR on collector road with > 5,000 ADT
+- Response time: 72 hours
+- Permanent repair within 14 days
+
+**Class C - Standard**: Diameter < 30cm AND depth < 5cm on local/residential streets
+- Response time: 14 days
+- Scheduled with routine maintenance
+
+### 12.04.010.2 Repair Materials and Methods
+- Temporary patches: Cold mix asphalt (QPR or equivalent)
+- Permanent repairs: Hot mix asphalt, minimum 50mm thickness
+- Base repair required if subgrade failure detected
+- Saw-cut edges required for permanent patches > 30cm
+
+### 12.04.010.3 Inspection Requirements
+- All potholes reported via 311 must be inspected within 48 hours
+- Inspection report must include: dimensions, location (GPS), photos, traffic impact assessment
+- Priority classification must be documented per 12.04.010.1
+
+### 12.04.010.4 Documentation and Tracking
+- All repairs logged in CMMS with work order number
+- Before/after photos required
+- Material quantities tracked
+- Cost per repair tracked for budgeting
+
+---
+## Section 12.04.020 - Streetlight Maintenance
+
+### 12.04.020.1 Outage Response Times
+**Critical**: Intersections, school zones, mid-block crosswalks
+- Response: 4 hours (24/7)
+- Repair: 24 hours
+
+**Standard**: Residential streets, alleys
+- Response: 5 business days
+- Repair: 14 business days
+
+### 12.04.020.2 LED Conversion Program
+- All replacements must use LED fixtures (3000K color temperature)
+- Smart controllers required on arterial roads
+- Photocell sensors mandatory
+
+---
+## Section 12.04.030 - Sidewalk Repair Standards
+
+### 12.04.030.1 Trip Hazard Criteria
+Vertical displacement > 12mm (1/2 inch) requires repair
+- High priority: Near schools, hospitals, senior centers, transit stops
+- Standard priority: Other locations
+
+### 12.04.030.2 Repair Methods
+- Grinding for displacements 12-25mm
+- Panel replacement for displacements > 25mm
+- Tree root mitigation required where applicable
+- ADA compliance mandatory for all repairs
+
+---
+## Section 12.04.040 - Drainage and Stormwater
+
+### 12.04.040.1 Catch Basin Maintenance
+- Inspection: Annually before rainy season (April)
+- Cleaning: When sediment > 60% of sump depth
+- Emergency response: Flooding reports within 2 hours
+
+### 12.04.040.2 Curb and Gutter Repair
+- Deterioration affecting drainage flow: 30-day repair
+- Structural failure: 72-hour temporary repair
+
+---
+## Section 12.04.050 - Traffic Sign Standards
+
+### 12.04.050.1 Sign Replacement Criteria
+- Retroreflectivity below MUTCD minimums
+- Physical damage (bent, faded, graffiti)
+- Obsolete or non-compliant legends
+
+### 12.04.050.2 Priority Classification
+**Immediate (24hr)**: Stop, Yield, Do Not Enter, Wrong Way, School Zone
+**High (72hr)**: Speed limit, regulatory, warning signs on arterials
+**Standard (14 days)**: Guide signs, parking signs, residential regulatory
+
+---
+## Section 12.04.060 - Jurisdictional Boundaries
+
+### 12.04.060.1 City Responsibility
+- All public streets within incorporated city limits
+- Sidewalks adjacent to public property
+- Streetlights on public streets
+
+### 12.04.060.2 County/State Responsibility
+- State highways (SR routes) - Caltrans
+- County roads in unincorporated areas
+- Freeway on/off ramps - Caltrans
+
+### 12.04.060.3 Private Responsibility
+- Private roads and driveways
+- Sidewalks adjacent to private property (per 12.04.030)
+- Streetlights on private property

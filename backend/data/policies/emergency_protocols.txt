@@ -1,0 +1,220 @@
+# Policy Document: Emergency Response Protocols for Infrastructure
+
+## POL-2024-001 - Infrastructure Emergency Response Protocol
+
+### 1. Purpose
+Establish standardized emergency response procedures for critical infrastructure failures that pose immediate risk to public safety.
+
+### 2. Scope
+Applies to all Public Works, Transportation, and Utilities departments responding to:
+- Sinkholes and major pavement failures
+- Bridge structural concerns
+- Major flooding events
+- Traffic signal system failures
+- Downed power lines affecting traffic control
+
+### 3. Activation Criteria
+**Level 1 - Immediate (0-2 hours)**:
+- Sinkhole > 1m diameter or depth
+- Bridge closure required
+- Flooding > 30cm on traveled way
+- Traffic signals dark at major intersection (> 20,000 ADT)
+- Any condition requiring immediate road closure
+
+**Level 2 - Urgent (2-24 hours)**:
+- Pavement failure affecting lane
+- Partial flooding of roadway
+- Traffic signal malfunction (flashing/conflicting)
+- Sign knockdown at controlled intersection
+
+**Level 3 - Expedited (24-72 hours)**:
+- Significant pothole on arterial
+- Streetlight outage at intersection
+- Drainage backup threatening property
+
+### 4. Response Team Structure
+**Incident Commander**: Senior PW Superintendent
+**Safety Officer**: PW Safety Coordinator
+**Operations**: Field crews, traffic control
+**Logistics**: Materials, equipment, vendors
+**Planning**: Engineering, detour routes
+**Public Info**: Communications, 311 coordination
+
+### 5. Communication Protocol
+- 311: Citizen reports → automated dispatch
+- PW Dispatch: Crew assignment, tracking
+- EOC Notification: Level 1 incidents only
+- Media: PIO handles (Level 1-2)
+- Elected Officials: CMO briefs (Level 1 only)
+
+### 6. Documentation Requirements
+- Incident report within 2 hours (Level 1)
+- Daily situation reports (Level 1-2)
+- After-action report within 14 days
+- Cost tracking from onset
+- Photo/video documentation mandatory
+
+### 7. Mutual Aid Agreements
+- Adjacent cities: Equipment sharing
+- County: Vacuum trucks, heavy equipment
+- Caltrans: State highway support
+- Private contractors: Pre-qualified list
+
+### 8. Training and Exercises
+- Tabletop exercise: Quarterly
+- Full-scale exercise: Annually
+- New employee orientation: Within 30 days
+- After-action reviews: Within 30 days
+
+---
+## POL-2024-002 - Citizen Complaint Prioritization Matrix
+
+### 1. Priority Factors Matrix
+
+| Factor | Weight | Critical (4) | High (3) | Medium (2) | Low (1) |
+|--------|--------|--------------|----------|------------|---------|
+| **Safety Risk** | 30% | Imminent hazard | Probable injury | Possible injury | Nuisance |
+| **Traffic Impact** | 20% | Arterial closure | Lane closure arterial | Collector lane | Local street |
+| **Vulnerable Population** | 15% | School/hospital/senior | Transit corridor | High ped area | Standard |
+| **Recurring Issue** | 15% | 3+ reports/30 days | 2 reports/30 days | 1 report/30 days | First report |
+| **Regulatory/Legal** | 10% | ADA violation, consent decree | MUTCD non-compliance | Code violation | None |
+| **Cost of Delay** | 10% | >$10k/day escalating | $5-10k/day | $1-5k/day | <$1k/day |
+
+### 2. Priority Calculation
+Priority Score = Sum of (Factor Weight × Factor Rating)
+- **Critical**: Score ≥ 3.5
+- **High**: Score 2.5 - 3.4
+- **Medium**: Score 1.5 - 2.4
+- **Low**: Score < 1.5
+
+### 3. Response Time Standards
+| Priority | Initial Response | Temporary Fix | Permanent Repair |
+|----------|------------------|---------------|------------------|
+| Critical | 2 hours | 24 hours | 7 days |
+| High | 24 hours | 72 hours | 14 days |
+| Medium | 72 hours | 7 days | 30 days |
+| Low | 14 days | 30 days | Next cycle |
+
+### 4. Escalation Triggers
+- Missed response time → Auto-escalate to next priority
+- Citizen complaint re-opened → Supervisor review
+- Media inquiry → PIO + Dept Director notification
+- Elected official inquiry → CMO + Dept Director response within 4 hours
+
+### 5. Quality Assurance
+- Random audit: 10% of closed complaints monthly
+- Customer satisfaction survey: 20% sample
+- Metrics dashboard: Real-time for supervisors
+- Annual calibration workshop for intake staff
+
+---
+## POL-2024-003 - Material and Contractor Standards
+
+### 1. Approved Materials List
+**Asphalt**:
+- Hot Mix: Caltrans Type A, PG 64-10
+- Cold Mix: QPR 2000, EZ Street
+- Tack Coat: SS-1h, CSS-1h
+
+**Concrete**:
+- Sidewalk: 3,500 psi, 6 sack, 4-6% air
+- Curb/Gutter: 3,000 psi
+- Structural: 4,000 psi minimum
+
+**Signs**:
+- Sheeting: 3M Type XI (diamond grade) mandatory
+- Substrate: 0.080" aluminum
+- Posts: 2" square tube, breakaway
+
+**Streetlights**:
+- Fixture: LED, 3000K, 0-10V dimming
+- Pole: Round tapered steel, anchor base
+- Controller: NEMA TS2 Type 2, cellular modem
+
+### 2. Pre-Qualified Contractors
+**Category A - Emergency (24/7)**:
+- ABC Paving Co. - Asphalt, concrete
+- XYZ Underground - Drainage, utilities
+- Lightning Electric - Signals, lighting
+
+**Category B - Routine Maintenance**:
+- City Maintenance Services - General
+- Green Earth Landscaping - Vegetation
+- Bay Area Striping - Markings, signs
+
+**Category C - Specialty**:
+- BridgeTech Engineers - Structures
+- Historic Preservation Group - Landmarks
+- GeoStabilize - Slopes, retaining walls
+
+### 3. Procurement Thresholds
+- <$5,000: Direct purchase (P-card)
+- $5,000-$25,000: Three quotes
+- $25,000-$100,000: Informal bid
+- >$100,000: Formal bid (Council approval)
+
+### 4. Warranty Requirements
+- Asphalt patches: 1 year
+- Concrete: 2 years
+- Signals/Lighting: 5 years
+- Contractor workmanship: 1 year minimum
+
+---
+## POL-2024-004 - Climate Resilience Adaptation
+
+### 1. Sea Level Rise Considerations
+- All new drainage: +1ft freeboard above 2100 projections
+- Pump station capacity: 25% safety factor
+- Shoreline assets: Adaptive management plans
+
+### 2. Heat Island Mitigation
+- Cool pavement pilot: 10 blocks/year
+- Tree canopy target: 30% coverage
+- Green infrastructure: Bioswales required on >1acre projects
+
+### 3. Storm Intensity Adaptation
+- 100-year storm design: NOAA Atlas 14 + 20%
+- Culvert sizing: Climate-adjusted IDF curves
+- Emergency overflow paths: Mapped and maintained
+
+---
+## POL-2024-005 - Data and Technology Standards
+
+### 1. Asset Management
+- All assets in CityWorks CMMS
+- GIS integration mandatory
+- Condition assessments: 3-year cycle
+- Mobile field entry: Required for all crews
+
+### 2. Sensor Networks
+- Smart streetlights: Environmental sensors
+- Flood gauges: 15 key locations
+- Traffic sensors: All signalized intersections
+- Data platform: Open data portal (monthly refresh)
+
+### 3. AI/ML Applications
+- Pothole prediction model: Retrained quarterly
+- Pavement condition indexing: Annual
+- Resource allocation optimization: Monthly
+- Human-in-the-loop: All automated decisions reviewable
+
+---
+## POL-2024-006 - Interdepartmental Coordination
+
+### 1. Standing Committees
+- **Infrastructure Coordination**: Monthly (PW, Trans, Planning, Fire, Police)
+- **Emergency Management**: Quarterly + as needed
+- **Capital Planning**: Bi-annual (5-year CIP alignment)
+- **Climate Resilience**: Quarterly
+
+### 2. Shared Protocols
+- **Dig Once**: Fiber/conduit with all pavement projects
+- **Complete Streets**: All resurfacing includes bike/ped review
+- **Utility Coordination**: 6-month lookahead mandatory
+- **Special Events**: Unified permit process
+
+### 3. Information Sharing
+- Common GIS platform
+- Shared CMMS access (read-only cross-dept)
+- Joint public dashboard
+- Unified 311 categorization
